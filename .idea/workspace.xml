@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a52a53a-1388-41b4-8a4a-2db330c8fb7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CancerImage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CancerImage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_load.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image_load.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -59,9 +64,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/CancerImage/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_load.py" />
@@ -88,45 +93,77 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587397885038">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2233" y="1053" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587653549718">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1587397885038" />
-    <state width="1771" height="258" key="GridCell.Tab.0.bottom" timestamp="1587651274065">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2233" y="1053" key="#com.intellij.execution.impl.EditConfigurationsDialog/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587653549718" />
+    <state x="2386" y="1136" key="#xdebugger.evaluate" timestamp="1587657423183">
+      <screen x="1080" y="840" width="2560" height="1080" />
+    </state>
+    <state x="2386" y="1136" key="#xdebugger.evaluate/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587657423183" />
+    <state x="2558" y="1153" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587653546416">
+      <screen x="1080" y="840" width="2560" height="1080" />
+    </state>
+    <state x="2558" y="1153" width="424" height="484" key="FileChooserDialogImpl/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587653546416" />
+    <state width="2000" height="276" key="GridCell.Tab.0.bottom" timestamp="1587658864692">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274065" />
-    <state width="1771" height="258" key="GridCell.Tab.0.center" timestamp="1587651274064">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="276" key="GridCell.Tab.0.bottom/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658864692" />
+    <state width="2000" height="276" key="GridCell.Tab.0.center" timestamp="1587658864692">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274064" />
-    <state width="1771" height="258" key="GridCell.Tab.0.left" timestamp="1587651274063">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="276" key="GridCell.Tab.0.center/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658864692" />
+    <state width="2000" height="276" key="GridCell.Tab.0.left" timestamp="1587658864691">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274063" />
-    <state width="1771" height="258" key="GridCell.Tab.0.right" timestamp="1587651274065">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="276" key="GridCell.Tab.0.left/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658864691" />
+    <state width="2000" height="276" key="GridCell.Tab.0.right" timestamp="1587658864692">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274065" />
-    <state width="1771" height="258" key="GridCell.Tab.1.bottom" timestamp="1587651274067">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="276" key="GridCell.Tab.0.right/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658864692" />
+    <state width="2000" height="296" key="GridCell.Tab.1.bottom" timestamp="1587658816241">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274067" />
-    <state width="1771" height="258" key="GridCell.Tab.1.center" timestamp="1587651274066">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="296" key="GridCell.Tab.1.bottom/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658816241" />
+    <state width="2000" height="296" key="GridCell.Tab.1.center" timestamp="1587658816241">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274066" />
-    <state width="1771" height="258" key="GridCell.Tab.1.left" timestamp="1587651274066">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="296" key="GridCell.Tab.1.center/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658816241" />
+    <state width="2000" height="296" key="GridCell.Tab.1.left" timestamp="1587658816241">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274066" />
-    <state width="1771" height="258" key="GridCell.Tab.1.right" timestamp="1587651274067">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="2000" height="296" key="GridCell.Tab.1.left/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658816241" />
+    <state width="2000" height="296" key="GridCell.Tab.1.right" timestamp="1587658816241">
+      <screen x="1080" y="840" width="2560" height="1080" />
     </state>
     <state width="1771" height="258" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587651274067" />
+    <state width="2000" height="296" key="GridCell.Tab.1.right/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587658816241" />
+    <state x="2205" y="1029" key="SettingsEditor" timestamp="1587652609768">
+      <screen x="1080" y="840" width="2560" height="1080" />
+    </state>
+    <state x="2205" y="1029" key="SettingsEditor/1080.840.2560.1080/0.867.1080.1053@1080.840.2560.1080" timestamp="1587652609768" />
     <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1587566390333">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1587566390333" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image_load.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
